@@ -1,3 +1,5 @@
+scriptencoding utf-8
+
 let s:sushi_count = 0
 let s:sushis =
   \ reverse(["🍣       ", " 🍣      ", "  🍣     ", "   🍣    ", "    🍣   ", "     🍣  ", "      🍣 ", "       🍣"])
