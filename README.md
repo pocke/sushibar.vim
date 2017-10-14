@@ -10,7 +10,7 @@ DEMO
 ------
 
 
-![demo](https://cloud.githubusercontent.com/assets/4361134/20459470/cb43f946-af05-11e6-8c9f-0ed0eb30dad6.gif)
+![demo](https://user-images.githubusercontent.com/4361134/31574944-f4f3a800-b115-11e7-8226-ab59f14588c4.gif)
 
 Installation Example
 --------
